@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PollutionMonitorAPP</string>
+    <string name="here">Suggested Plant<b><font color='#00ff00'><u> Click here</u> </font></b></string>
+</resources>
